@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.heading{
+    text-align: center;
+    font-family:  "Helvetica Neue" ;
+    color:#590c0c;
+}
+.button{
+text-align: center;
+}
+.buttonstyling{
+   border-radius:30px;
+   height:40px;
+   width:100px;
+   background-color:#181b1c;
+   border-width: 0px;
+   color:white;
+   font-family:  "Helvetica Neue" ;
+
+}
+.label{
+    background-color: rgb(129, 173, 173);
+    font-family:  "Helvetica Neue" ;
+    
+}
+.container{
+    background-color: rgb(129, 173, 173);
+    padding:40px
+}
+.gender-container{
+    display: flex;
+    flex-direction: row;
+     justify-content: flex-start;
+
+}
+.error-message{
+    color:#f01313;
+}
